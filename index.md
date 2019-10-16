@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP node.js goat
 tags: example-tag
 level: 4
+type: code
 
 ---
 
