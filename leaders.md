@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Chetan Karande](mailto://chetan.karande@owasp.org)
+* [Chetan Karande](mailto:chetan.karande@owasp.org)
