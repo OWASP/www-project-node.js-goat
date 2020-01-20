@@ -4,7 +4,6 @@ layout: col-sidebar
 title: OWASP Node.js Goat
 level: 2
 type: code
-auto-migrated: 0
 
 ---
 
