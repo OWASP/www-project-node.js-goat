@@ -1,7 +1,7 @@
 ---
+
 layout: col-sidebar
-title: OWASP Node.Js Goat
-tags: nodejs
+title: OWASP Node.js Goat
 level: 2
 type: code
 auto-migrated: 1
