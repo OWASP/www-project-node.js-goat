@@ -15,11 +15,8 @@ Being lightweight, fast, and scalable, Node.js is becoming a widely adopted plat
 
 The source code for the OWASP NodeGoat Project is located at [Github Repo](https://github.com/OWASP/NodeGoat). You can use it in a couple of ways:
 
-### Learn
-[Tutorial Guide](http://nodegoat.herokuapp.com/tutorial) explaining how each of the OWASP Top 10 vulnerabilities can manifest in Node.js web apps and how to prevent it.
-
 ### Hands-on Lab
-[A Vulnerable Node.js App for Ninjas](http://nodegoat.herokuapp.com/) to exploit, toast, and fix. You may like to [set up your own copy](https://github.com/OWASP/NodeGoat#how-to-setup-your-copy-of-nodegoat) of the app to fix and test vulnerabilities. 
+[Set up your own copy](https://github.com/OWASP/NodeGoat#how-to-setup-your-copy-of-nodegoat) of the app to fix and test vulnerabilities. 
 
 ## Contributors
 Here are the amazing [contributors](https://github.com/OWASP/NodeGoat/graphs/contributors) to the NodeGoat project.
